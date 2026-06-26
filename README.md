@@ -24,10 +24,5 @@ tic_tac_toe.py	                  Classic Tic-Tac-Toe game implementation.
 vehicle_rental_system.py	        A comprehensive OOP-based vehicle rental management system.
 
 
-How to Run
-Ensure you have Python installed on your system.
 
-Clone this repository: git clone https://github.com/your-username/your-repo-name.git
-
-Navigate to the folder and run any file using: python filename.py
 
